@@ -7,9 +7,9 @@ var w = c.width = window.innerWidth,
 		
 		opts = {
 			strings: [ '母亲节快乐，祝福亲爱的妈妈', '健康长寿，事事顺心，万事如意！' ,'by WenTing'],
-			charSize: 30,
-			charSpacing: 35,
-			lineHeight: 40,
+			charSize: 60,
+			charSpacing: 70,
+			lineHeight: 80,
 			
 			cx: w / 2,
 			cy: h / 2,
